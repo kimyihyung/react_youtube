@@ -1,15 +1,20 @@
 import React, { useEffect, useState } from 'react'
 import ReactPlayer from 'react-player'
+import { Videos } from './'
 import { useParams } from 'react-router-dom'
 import { fetchAPI } from '../utils/fetchAPI'
+import { AiFillHeart } from 'react-icons/ai'
+
 const VideoConts = () => {
   const [videoDetail, setVideoDetail] = useState(null)
   const [videos, setVideos] = useState(null)
   const { id } = useParams()
+
   useEffect(() => {
     fetchAPI(`videos?part=snippet, statistics&id=${id}`).then((data) =>
       setVideoDetail(data.items[0])
     )
+
     fetchAPI(`search?part=snippet&relatedToVideoId=${id}&type=video`).then(
       (data) => setVideos(data.items)
     )
@@ -18,7 +23,11 @@ const VideoConts = () => {
   // const {
   //   snippet: { title, channelId, channelTitle },
   //   statistics: { viewCount, LikeCount },
-  // } = videoDetail;
+  // } = videoDetail
+  const {
+    snippet: { title, channelTitle, channelId },
+    statistics: { viewCount, LikeCount },
+  } = videoDetail
 
   return (
     <section className="videoConts">
@@ -31,9 +40,20 @@ const VideoConts = () => {
                 controls
               />
             </div>
-            <div className="desc"></div>
+            <div className="desc">
+              <span className="title">{title}</span>
+              <div className="channel">{channelTitle}</div>
+              <div className="count">
+                <span className="view">조회수 : {viewCount}회</span>
+                <span className="like">
+                  <AiFillHeart /> {LikeCount}
+                </span>
+              </div>
+            </div>
           </div>
-          <div className="right"></div>
+          <div className="right">
+            <Videos videos={videos} layout="colunm" />
+          </div>
         </div>
       </div>
     </section>

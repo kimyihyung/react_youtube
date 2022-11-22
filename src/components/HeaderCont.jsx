@@ -10,7 +10,7 @@ const HeaderCont = () => {
     <header id="header">
       <h1 className="logo">
         <Link to="/">
-          <AiFillYoutube className="icon" /> Dev Youtube
+          <AiFillYoutube className="icon" /> Youtube
         </Link>
       </h1>
       <SearchBar />
