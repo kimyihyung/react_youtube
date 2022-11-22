@@ -1,9 +1,10 @@
 import React, { useEffect, useState } from 'react'
 import ReactPlayer from 'react-player'
 import { Videos } from './'
-import { useParams } from 'react-router-dom'
+import { useParams, Link } from 'react-router-dom'
 import { fetchAPI } from '../utils/fetchAPI'
 import { AiFillHeart } from 'react-icons/ai'
+import Loader from './Loader'
 
 const VideoConts = () => {
   const [videoDetail, setVideoDetail] = useState(null)
@@ -19,14 +20,13 @@ const VideoConts = () => {
       (data) => setVideos(data.items)
     )
   }, [id])
+
+  if (!videoDetail?.snippet) return <Loader />
   // 각 정보를 videoDetail안에다가 넣음
-  // const {
-  //   snippet: { title, channelId, channelTitle },
-  //   statistics: { viewCount, LikeCount },
-  // } = videoDetail
+
   const {
-    snippet: { title, channelTitle, channelId },
-    statistics: { viewCount, LikeCount },
+    snippet: { title, channelId, channelTitle },
+    statistics: { viewCount, likeCount },
   } = videoDetail
 
   return (
@@ -42,11 +42,13 @@ const VideoConts = () => {
             </div>
             <div className="desc">
               <span className="title">{title}</span>
-              <div className="channel">{channelTitle}</div>
+              <div className="channel">
+                <Link to={`/channel/${channelId}`}>{channelTitle}</Link>
+              </div>
               <div className="count">
-                <span className="view">조회수 : {viewCount}회</span>
+                <span className="view">조회수 {viewCount}회</span>
                 <span className="like">
-                  <AiFillHeart /> {LikeCount}
+                  <AiFillHeart /> {likeCount}
                 </span>
               </div>
             </div>

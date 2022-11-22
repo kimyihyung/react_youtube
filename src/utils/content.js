@@ -47,4 +47,5 @@ export const categories = [
   { name: '월급쟁이부자들TV', icon: <TbDeviceMobile /> },
   { name: '자유시장', icon: <TbDeviceMobile /> },
   { name: '런던고라니_김희욱', icon: <TbDeviceMobile /> },
+  { name: '용호수', icon: <TbDeviceMobile /> },
 ]
