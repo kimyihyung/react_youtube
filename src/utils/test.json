@@ -1,0 +1,1655 @@
+{
+  "kind": "youtube#searchListResponse",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "DE",
+  "pageInfo": {
+    "totalResults": 364059,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCJafVG2VdlQPZ1xjARpBkLA"
+      },
+      "snippet": {
+        "publishedAt": "2015-08-26T06:36:04Z",
+        "channelId": "UCJafVG2VdlQPZ1xjARpBkLA",
+        "title": "백색나무",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AMLnZu9UJ-JdkdiU4rhvRAs4UdETRo40jX453jXS-xiY=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AMLnZu9UJ-JdkdiU4rhvRAs4UdETRo40jX453jXS-xiY=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AMLnZu9UJ-JdkdiU4rhvRAs4UdETRo40jX453jXS-xiY=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "백색나무",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-08-26T06:36:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fs4Uz9PHTXc"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-27T11:00:20Z",
+        "channelId": "UCJafVG2VdlQPZ1xjARpBkLA",
+        "title": "경기침체 정말 올까? (Feat. 채권과 스프레드)",
+        "description": "언론에서 경기침체를 예측하고 있습니다. 하지만 연준은 단기 포워드 스프레드를 근거로 아직 금리를 올릴 여력이 충분하다고 말하고 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fs4Uz9PHTXc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fs4Uz9PHTXc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fs4Uz9PHTXc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "백색나무",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-27T11:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oRL_NF4OpTQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-16T10:00:32Z",
+        "channelId": "UCJafVG2VdlQPZ1xjARpBkLA",
+        "title": "일론 머스크가 말하는 테슬라의 현주소 (FT 인터뷰 full 번역)",
+        "description": "일론 머스크가 파이낸셜 타임스에서 열린 Future of the Car 컨퍼런스에 참여했습니다. 인터뷰에서 우린 많은 것을 들어볼 수 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oRL_NF4OpTQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oRL_NF4OpTQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oRL_NF4OpTQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "백색나무",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-16T10:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UXsEk7C-cD8"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-19T10:00:07Z",
+        "channelId": "UCJafVG2VdlQPZ1xjARpBkLA",
+        "title": "5년 안에 매출이 6배 늘어날 기업(feat. SoFi)",
+        "description": "왜 핀테크일까요? 현행 은행을 이용하는데 겪는 불편함은 비단 우리나라 만의 이야기는 아닙니다. 대기 시간, 수수료, 영업 시간, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UXsEk7C-cD8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UXsEk7C-cD8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UXsEk7C-cD8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "백색나무",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-19T10:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qb19xN0xq7o"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-07T12:30:11Z",
+        "channelId": "UCJafVG2VdlQPZ1xjARpBkLA",
+        "title": "투자 성공은 당신이 얼마나 아싸인지에 달려있다",
+        "description": "우리는 종종 이야기합니다. 개인투자자는 정보가 부족하기 때문에 기관투자자들에게 질 수 밖에 없다고. 그렇다면 거꾸로 많은 정보를 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qb19xN0xq7o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qb19xN0xq7o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qb19xN0xq7o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "백색나무",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-07T12:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "C54C_JQyjdg"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-24T00:00:03Z",
+        "channelId": "UCJafVG2VdlQPZ1xjARpBkLA",
+        "title": "재생에너지와 비트코인(feat. 스퀘어, ARK 공동백서)",
+        "description": "스퀘어와 Ark invest가 비트코인과 재생에너지에 대한 백서를 발표했습니다. 핵심 내용은 비트코인과 태양광, 풍력, 배터리의 SWB ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C54C_JQyjdg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C54C_JQyjdg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C54C_JQyjdg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "백색나무",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-24T00:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yQODK8Ypf4k"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-07T10:00:33Z",
+        "channelId": "UCJafVG2VdlQPZ1xjARpBkLA",
+        "title": "왜 그들은 비트코인을 사 모으는 걸까?",
+        "description": "비트코인의 구조에 대해 충분히 이해하셨다면, 이제는 비트코인을 둘러싼 계획들에 대해 알아보도록 합시다. 먼저 통시적 관점에서 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yQODK8Ypf4k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yQODK8Ypf4k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yQODK8Ypf4k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "백색나무",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-07T10:00:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TuWZzz7jMcA"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-04T16:00:12Z",
+        "channelId": "UCJafVG2VdlQPZ1xjARpBkLA",
+        "title": "투자자들을 위한 비트코인 구조 이해",
+        "description": "비트코인의 구조를 이해해야 기술적 진보의 방향이 어디로 향하고 있는지, 왜 투자자들이 비트코인에 몰리고 있는지를 이해할 수 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TuWZzz7jMcA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TuWZzz7jMcA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TuWZzz7jMcA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "백색나무",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-04T16:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gcS8n2rVVJ8"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-26T22:30:05Z",
+        "channelId": "UCJafVG2VdlQPZ1xjARpBkLA",
+        "title": "왜 그들은 팔란티어를 매도하라 하는걸까?",
+        "description": "2018년, 가트너는 전체 AI 프로젝트의 85%가 실패로 끝날 것이라 예상했습니다. 이 실패율을 획기적으로 줄이고 머신러닝을 촉진할 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gcS8n2rVVJ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gcS8n2rVVJ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gcS8n2rVVJ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "백색나무",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-26T22:30:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eoTYBI8D5Tg"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-21T14:30:08Z",
+        "channelId": "UCJafVG2VdlQPZ1xjARpBkLA",
+        "title": "도지코인에 대한 일론 머스크의 생각",
+        "description": "AI, 블록체인, 일론 머스크, 그리고 도지코인에 대한 내용입니다. 시청해주셔서 감사합니다!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eoTYBI8D5Tg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eoTYBI8D5Tg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eoTYBI8D5Tg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "백색나무",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-21T14:30:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iLRT8JsGVZA"
+      },
+      "snippet": {
+        "publishedAt": "2014-05-01T04:04:45Z",
+        "channelId": "UC0Bg4q3tllDi5lWkYLL4tIA",
+        "title": "백색나무(White Tree) - 런던브릿지(London Bridge) 감성연주곡 뉴에이지 New Age 봄날 듣기좋은 곡 마음을 따뜻하게 만드는곡",
+        "description": "감성을 연주하는 뉴에이지 아티스트 '런던브릿지'의 다섯번째 싱글앨범 [White Tree] 발매. 작년 가을 첫 정규 앨범을 선보인 후, 많은 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iLRT8JsGVZA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iLRT8JsGVZA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iLRT8JsGVZA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "솔룸엔터테인먼트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-05-01T04:04:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cy4gBUID1Gc"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-13T13:15:06Z",
+        "channelId": "UCJafVG2VdlQPZ1xjARpBkLA",
+        "title": "비트코인이 앞으로 풀어야할 과제",
+        "description": "비트코인 블록체인의 노드에는 단순히 사용만 하는 노드와 블록 검증에까지 참여하는 풀노드, 채굴을 목적으로하는 마이너 노드가 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cy4gBUID1Gc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cy4gBUID1Gc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cy4gBUID1Gc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "백색나무",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-13T13:15:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OAIhIEAwUeY"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-19T10:30:02Z",
+        "channelId": "UCJafVG2VdlQPZ1xjARpBkLA",
+        "title": "도지코인 채굴과 에너지, 투자가치",
+        "description": "내재가치가 없다. 무제한 발행이기 때문에 투자가치가 없다. 그 시작도 그 끝도 단순한 장난에 불과할 것이다. 도지코인에 대해 많은 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OAIhIEAwUeY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OAIhIEAwUeY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OAIhIEAwUeY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "백색나무",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-19T10:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AeDd4obq9yY"
+      },
+      "snippet": {
+        "publishedAt": "2014-05-01T04:08:20Z",
+        "channelId": "UCkyCV1ttIQKiQq4OuDaU98Q",
+        "title": "백색나무(White Tree) - 런던브릿지(London Bridge)",
+        "description": "감성을 연주하는 뉴에이지 아티스트 '런던브릿지'의 다섯번째 싱글앨범 [White Tree] 발매. 멜론 : http://bit.ly/1kkmrqy #MelOn 엠넷 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AeDd4obq9yY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AeDd4obq9yY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AeDd4obq9yY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lumen루멘",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-05-01T04:08:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "you2by8nVZM"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-30T05:12:35Z",
+        "channelId": "UCBZxglYCbIkkvw1CAAJhOVw",
+        "title": "[#자작자작] 백색나무의 아름다움, 영양 자작나무 숲",
+        "description": "하얀 눈처럼 하얀 나무가 매력적인 자작나무- 영양에 위치한 자작나무 숲 - 자작-자작, 타는 소리를 낸다는 자작나무 숲 만의 아름다움 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/you2by8nVZM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/you2by8nVZM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/you2by8nVZM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "대한민국 산림청",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-30T05:12:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VCrk92XSHWY"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-14T14:48:18Z",
+        "channelId": "UCl8PkRsaeaNA20dcyaDZ8HQ",
+        "title": "뿌리깊은 웅장한 나무 풍경 빗소리, 긴장을 풀고 깊은수면 백색소음 ASMR",
+        "description": "한적한 테마공원 장엄한 큰나무가 너무 아름다워 영상으로 담았습니다. 넓은 잔디에 한 그루의 큰나무가 듬직 합니다. 숙면에 도움이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VCrk92XSHWY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VCrk92XSHWY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VCrk92XSHWY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Healing Comma",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-14T14:48:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "OLAK5uy_k3GQw4jWqCb1b1T3gQR_nK7fIwyV72t-c"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-04T04:27:46Z",
+        "channelId": "UC",
+        "title": "공부할 때 듣기 좋은 나무장작 타는 소리 백색소음",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CDPcHrkpc2M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CDPcHrkpc2M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CDPcHrkpc2M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-04T04:27:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lQ0fS2meTYQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-12T20:00:27Z",
+        "channelId": "UCR_-5nSCnmZvpHoj8OYOUcQ",
+        "title": "불면증에 좋은 최고의 빗소리 10분이내 수면 백색소음 자장가 ASMR | Rain Sounds For Sleeping, White Noise",
+        "description": "불면증에 좋은 최고의 빗소리 10분이내 수면 백색소음 자장가 ASMR | Rain Sounds For Sleeping, White Noise ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lQ0fS2meTYQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lQ0fS2meTYQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lQ0fS2meTYQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Relax Sleep ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-12T20:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "taIgq3013PE"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-27T13:30:15Z",
+        "channelId": "UCsRpODQFdySJflBi3i1X5qg",
+        "title": "빗소리 ASMR | 빗소리 + 모닥불 소리 | 잠 오는 백색소음 | 우중캠핑 느낌 살려서~ | #Rain, #Fireplace Sound",
+        "description": "네이버 TV - https://tv.naver.com/rest 네이버 오디오 클립 - http://naver.me/5Fl1Dpz3 안녕하세요. 네이버TV와 네이버 오디오클립으로 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/taIgq3013PE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/taIgq3013PE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/taIgq3013PE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TAKE A BREAK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-27T13:30:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Nqmov064uyk"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-11T11:37:53Z",
+        "channelId": "UCwYosniCbUHMyj6HWOlZd9w",
+        "title": "ASMR 백색소음ㅣ2시간 나무장작 타는소리ㅣThe crackling of burning woods🔥",
+        "description": "Please wear earphones. 이어폰 착용해주세요 Camera : Canon EOS 200D Recorder : ZOOM H6 Subscribe for more videos.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nqmov064uyk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nqmov064uyk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nqmov064uyk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "UNO ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-11T11:37:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BYWbUME29oI"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-10T08:01:02Z",
+        "channelId": "UCg1lEUsojrkLIdNL-2z_uUg",
+        "title": "[백색소음 ASMR] 오두막집 벽난로 장작 타는 소리와 빗소리 Fireplace &amp; Rain Sounds.",
+        "description": "따듯하고 아늑한 오두막집의 공간에서 들려오는 빗소리와 모닥불 소리는 기분을 한결 차분하게 만드는 것 같아요. '공간의 소리'는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BYWbUME29oI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BYWbUME29oI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BYWbUME29oI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "공간의 소리 The Sound of Place",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-10T08:01:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "a7iROXBRvzI"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-11T03:45:14Z",
+        "channelId": "UCr0Dgam-vK5BAGGYOv2IDpA",
+        "title": "비오는날 밤공원 산책-나무데크 위로 떨어지는 빗소리로 빠르게 잠드세요. 힐링나우 백색소음 ASMR",
+        "description": "하염없이 비오는날 밤공원 산책- 나무데크 위로 떨어지는 빗소리로 빠르게 잠드세요. 힐링나우 백색소음 ASMR 촬영장소 : 일산호수 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a7iROXBRvzI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a7iROXBRvzI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a7iROXBRvzI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Healing Now ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-11T03:45:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eThkr5iSbwU"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-29T20:30:03Z",
+        "channelId": "UCR_-5nSCnmZvpHoj8OYOUcQ",
+        "title": "불면증에 좋은 최고의 빗소리 10분이내 수면 백색소음 자장가 ASMR | Rain Sounds For Sleep",
+        "description": "불면증에 좋은 최고의 빗소리 10분이내 수면 백색소음 자장가 ASMR | Rain Sounds For Sleep https://youtu.be/eThkr5iSbwU ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eThkr5iSbwU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eThkr5iSbwU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eThkr5iSbwU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Relax Sleep ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-29T20:30:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Dp-TXheYgw0"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-14T03:18:25Z",
+        "channelId": "UCtfB5FDTys9KOZgOsk5-oyA",
+        "title": "자연소리, 바람소리, 나무소리 ASMR 🌳🌬 | 백색소음, 공부, 집중, 명상, 휴식",
+        "description": "개인적으로 공부할때 쓰려고 만들었어요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dp-TXheYgw0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dp-TXheYgw0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dp-TXheYgw0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "진주 귀걸이를 못 사는 소녀",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-14T03:18:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "N_g3AiXF-q8"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-07T12:11:58Z",
+        "channelId": "UCtJLYHUN4NbjYVIgL-IBwuA",
+        "title": "ASMR - 장작타는소리, 모닥불 8시간 연속재생 #Relaxation #Sleep",
+        "description": "이번 영상은 이전에 업로드 되었던 영상으로 기존과 달리 검은화면으로 바뀌지 않습니다. 기존 영상은 며칠 이내 비공개로 전환 될 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N_g3AiXF-q8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N_g3AiXF-q8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N_g3AiXF-q8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Slow TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-07T12:11:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JfKv5mgm9E4"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-13T11:22:20Z",
+        "channelId": "UCWJlwLZdt_kFUIpKW-g2Myg",
+        "title": "생각의 틀을 깨는 물건 활용 10가지",
+        "description": "생각의 틀을 깨면 집에 있는 물건으로 여러 가지 활용을 할 수 있습니다. 지금까지 우리 집 물건 변신을 한데 모아 보았습니다. * 어설픈 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JfKv5mgm9E4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JfKv5mgm9E4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JfKv5mgm9E4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "아침나무 - Raw Minimalist",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-13T11:22:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k-GjgN-3gN4"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-28T13:41:01Z",
+        "channelId": "UCDM_pWK-Apgv1u2mqnRGrvA",
+        "title": "[수면유도음악] 노르웨이 장작소리 🌲 I 절대 끝까지 못 듣는 장작소리🔥 I 떡실신 10분컷 I 듣자마자떡실신하는수면유도음악 I 수면호텔 🔥 #노르웨이장작소리 #수면교육연구소",
+        "description": "저희 장작소리와 수면음악이 마음에 드신다면 구독과 좋아요 부탁드려요! ▷ VVIP 고객님들을 위한 메뉴는 아래와 같습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k-GjgN-3gN4/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k-GjgN-3gN4/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k-GjgN-3gN4/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "수면교육연구소 sleep_education_lab",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-06-28T13:41:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nrzoQL1b5DM"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-15T09:00:11Z",
+        "channelId": "UCBbzttH8Ft7Xja-FEA1orBw",
+        "title": "자작나무캔들 1시간 ASMR (검은화면) | Woodwick ASMR | 백색소음 | No Talking | 민드레 MINDRE",
+        "description": "ASMR #캔들ASMR #검은화면ASMR 안녕하세요 민드레입니다. 오늘은 조금 더 좋은 퀄리티의 자작나무캔들 소리를 가져와 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nrzoQL1b5DM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nrzoQL1b5DM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nrzoQL1b5DM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "민드레 MINDRE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-15T09:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s9Zxpxjr3zE"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-26T12:59:16Z",
+        "channelId": "UC_Xjg_BpywMUOUZvN67Ua6w",
+        "title": "ASMR 장작타는소리 꿀잠 휴식 장작불 수면 소리 - Crackling Fire Sounds 24/7",
+        "description": "타닥타닥 장작 타는 소리입니다. 연일 추운데 장작불 소리 들으며 따뜻하게 수면에 들기 ~! 꿀잠 자거나 공부할 때 집중력 높여주는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s9Zxpxjr3zE/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s9Zxpxjr3zE/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s9Zxpxjr3zE/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "smilemedia",
+        "liveBroadcastContent": "live",
+        "publishTime": "2021-12-26T12:59:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WlObjbUPLps"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-08T12:30:00Z",
+        "channelId": "UCsLgKKiv8kDDGy1stC8BxVA",
+        "title": "[집중력 높이는 소리] 장작 소리 효과음 백색소음 ASMR ★ 공신 강성태",
+        "description": "공부 방법이 고민이신 분들은 학습진단을 무료로 해드립니다. ▷ https://bit.ly/2JH0yM7 공신들의 공부비법을 모두 담은 시크릿 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WlObjbUPLps/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WlObjbUPLps/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WlObjbUPLps/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "공부의신 강성태",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-08T12:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BP7Ja5oT3BM"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-31T09:22:47Z",
+        "channelId": "UC-ApWTq7Q-kWW9WV-OMCIvg",
+        "title": "/수면보조 / 비소리 / ASMR / #백색소음 #shorts #나무향초",
+        "description": "우드윅 타는 소리를 준비해봤습니다 타다타닥 들으면서 힐링하세요~ #우드윅 #woodwik.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BP7Ja5oT3BM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BP7Ja5oT3BM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BP7Ja5oT3BM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "박곰사운드",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-31T09:22:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6ZSbWQkIYsU"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-20T13:35:08Z",
+        "channelId": "UCjCDp8b2wtGIiaC3ZqKomSQ",
+        "title": "ASMR 수프가 엄선한 장작 타는 소리 3시간 + 타이머●자꾸만 듣고 싶은 캠프파이어, 모닥불 소리 | Campfire Crackling Fire Sounds 3hrs",
+        "description": "수프 애청자, 구독자 여러분! 기존 영상에 장작 타는 소리는 해리 포터나 반지의 제왕, 찰리와 초콜릿 공장 등 다양한 곳에서 분위기를 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6ZSbWQkIYsU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6ZSbWQkIYsU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6ZSbWQkIYsU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "asmr soupe",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-20T13:35:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BMHNRadpDbU"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-06T12:09:00Z",
+        "channelId": "UCelTvkENN_2V5O8S0jFNcpA",
+        "title": "시골 집 베란다에 내리는 편안한 빗소리 #빗소리 #백색소음 #수면 #힐링",
+        "description": "시골집 나무 마루 바닥과 밭에 내리는 빗소리를 담은 ASMR 영상입니다. 시청하시기 전에 영상의 볼륨을 듣기 제일 편한 위치로 맞춰 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BMHNRadpDbU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BMHNRadpDbU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BMHNRadpDbU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Starlight ho Channel _ rain sound",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-06T12:09:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "soH6aoCenuw"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-29T14:00:33Z",
+        "channelId": "UCR_-5nSCnmZvpHoj8OYOUcQ",
+        "title": "뿌리깊은 웅장한 나무 풍경 빗소리, 긴장을 풀고 깊은수면 백색소음 ASMR",
+        "description": "뿌리깊은 웅장한 나무 풍경 빗소리, 긴장을 풀고 깊은수면 백색소음 ASMR https://youtu.be/soH6aoCenuw ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/soH6aoCenuw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/soH6aoCenuw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/soH6aoCenuw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Relax Sleep ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-29T14:00:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QgjS86EX4Yk"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-01T01:00:00Z",
+        "channelId": "UC_Xjg_BpywMUOUZvN67Ua6w",
+        "title": "토란잎 위로 떨어지는 빗방울 - 우산 빗소리  8시간 깊은 수면",
+        "description": "부드러운 빗소리 토란잎 위로 떨어지는 빗방울 영상 촬영할때 우산 아래 에서 촬영해서 우산에 떨어지는 빗소리가 녹음 됬습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QgjS86EX4Yk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QgjS86EX4Yk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QgjS86EX4Yk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "smilemedia",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-01T01:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2YGg2Bc0DGI"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-28T13:45:43Z",
+        "channelId": "UCIbRfPqg9bVvYZYmwYqYR8w",
+        "title": "2021년 가을, 단풍, 홍천 은행나무숲, 백색소음",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2YGg2Bc0DGI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2YGg2Bc0DGI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2YGg2Bc0DGI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "천손꼬레",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-28T13:45:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GDtZmfVfSAg"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-09T01:30:04Z",
+        "channelId": "UC5xwJP0zWYbjZf7usF1QOWQ",
+        "title": "깊은 장엄한 나무 풍경 빗소리, 휴식, 깊은 잠 백색소음 ASMR",
+        "description": "깊은 장엄한 나무 풍경 빗소리, 휴식, 깊은 잠 백색소음 ASMR 깊은 장엄한 나무 풍경 빗소리, 휴식, 깊은 잠 백색소음 ASMR 깊은 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GDtZmfVfSAg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GDtZmfVfSAg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GDtZmfVfSAg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Isaac Garrison",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-09T01:30:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "N8YWJWwLf9A"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-04T08:13:45Z",
+        "channelId": "UCatJrGEnNVo9HE5HVGkxmOg",
+        "title": "#5 대구공원 나무 하늘 새소리 솟대 백색소음 Daegu park tree sky birdsong magpie white noise",
+        "description": "힐링영상 #Short #healing #짧은영상 #자연의소리 #순삭영상 #행복해지는영상 #기분업되는영상 #기분좋아지는영상 #치유음악 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N8YWJWwLf9A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N8YWJWwLf9A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N8YWJWwLf9A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "힐링Pocha푸들포차 형님TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-04T08:13:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PWEZfZn6UX4"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-29T04:56:22Z",
+        "channelId": "UCbo56RHRCWdM0B8986TlM-A",
+        "title": "백색소음 ,burning wood  sound",
+        "description": "백색소음 ,나무타는소리 ,burning wood sound.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PWEZfZn6UX4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PWEZfZn6UX4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PWEZfZn6UX4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "쉬프트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-29T04:56:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eLLjQVG9HZs"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-07T12:13:40Z",
+        "channelId": "UCC6fYTZ9AIkqNy6zYEHVwow",
+        "title": "동양풍 수면 유도 음악 + 빗소리 / 명상 음악, 불면증 치료 음악 / 10시간",
+        "description": "자작곡 발매 사이트 (Release site of self-composed music) ▷Melon: https://m2.melon.com/artist/album.htm?artistId=2964735 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eLLjQVG9HZs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eLLjQVG9HZs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eLLjQVG9HZs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Flow Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-07T12:13:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kcM8muFzzvg"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-19T20:45:09Z",
+        "channelId": "UCUoehl_UHrH6QzGKDaPAMzw",
+        "title": "뿌리깊은 웅장한 나무 풍경 빗소리, 긴장을 풀고 깊은수면 백색소음 ASMR",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kcM8muFzzvg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kcM8muFzzvg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kcM8muFzzvg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Musique Relaxante Apaisante",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-19T20:45:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FiNLzN0lnbs"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-08T06:02:52Z",
+        "channelId": "UCc_mDJfsQ-eTZy9IAmofyCg",
+        "title": "호두나무 백색페인트 도료(호두재배인의 불안정한 미래에 대한 한탄스러움)",
+        "description": "불안하다. 미래가 없다. 많은 의구심을 품은채 호두재배에 선뜻 나선지 1년이 지났다. 다 떨쳐버리고 고온피해 방지를 위해 올 가을 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FiNLzN0lnbs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FiNLzN0lnbs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FiNLzN0lnbs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "은하수호두농원(양철봉)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-08T06:02:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HboV095kVwU"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-02T21:32:51Z",
+        "channelId": "UC-WO73jzCzopIBV1H3-Q0QA",
+        "title": "잠 잘오는 빗소리 천둥 번개소리 백색소음 ASMR 불면증 이명치료 집중력 향상 I Rain Thunder White Noise Relaxation Sleep Meditation",
+        "description": "나무들 사이로 떨어지는 빗소리가 상쾌합니다. 조용히 앉아 눈을 감고 들으면 스트레스가 스르르 없어집니다. 오늘도 좋은 하루 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HboV095kVwU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HboV095kVwU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HboV095kVwU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RELAXING SOUND",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-02T21:32:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-8in6e5akTc"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-02T07:41:17Z",
+        "channelId": "UCCwqSNH1-AN1C-AwWhZnKHw",
+        "title": "[smeg] 1시간 / 기분을 설레게 하는 백색소음 : 숲(나무, 바람, 새소리)",
+        "description": "기분을 설레게 하는 백색소음 숲의 소리를 들어보세요. 당신의 라이프를 설레게 합니다. #스메그 #백색소음 #OSV ▷스메그코리아 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-8in6e5akTc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-8in6e5akTc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-8in6e5akTc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스메그코리아",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-02T07:41:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rk-44JCf4Oc"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-06T05:34:00Z",
+        "channelId": "UCDIi_RURelQwrfCsyMTxk9A",
+        "title": "나무에 떨어지는 빗소리는 불면증을 위한 최고의 편안한 빗소리 - 백색소음",
+        "description": "나무에 떨어지는 빗소리는 불면증을 위한 최고의 편안한 빗소리 - 백색소음 https://youtu.be/rk-44JCf4Oc ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rk-44JCf4Oc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rk-44JCf4Oc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rk-44JCf4Oc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "당신을 위해 휴식 - Relax For You",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-06T05:34:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "84U7eqCJA6o"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-08T17:00:06Z",
+        "channelId": "UCiDlhM7clHcNZ_iZvTATJzw",
+        "title": "잠 잘오는 빗소리 5분후 검은화면 / 백색소음 10시간 / white noise asmr",
+        "description": "잠 잘오는 빗소리 5분후 검은화면 / 백색소음 10시간 / white noise asmr.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/84U7eqCJA6o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/84U7eqCJA6o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/84U7eqCJA6o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "공감나무 ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-08T17:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "USeJ8YucUp4"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-30T19:26:30Z",
+        "channelId": "UCT2famVa6ltqIiivOpU7Neg",
+        "title": "백색 소음(Sleeping Sound)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/USeJ8YucUp4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/USeJ8YucUp4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/USeJ8YucUp4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jason Kim",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-30T19:26:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RDtf-GR41-I"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-14T12:00:16Z",
+        "channelId": "UCt0R3Z8WpcdfErb0n5Jlofg",
+        "title": "#74. 3시간 빗소리🌧가을, 단풍나무, 은행나무, 산책길, 낙엽 빗소리🌧3시간 영상재생, 디지털액자",
+        "description": "영상과 영상 속 사운드는 \"소리는 한라뽕\"이 직접 제작한 영상입니다. *아파트 단지안 은행나무 길에 내리는 빗소리, 길에 수놓인 단풍 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RDtf-GR41-I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RDtf-GR41-I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RDtf-GR41-I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "소리는 한라뽕🍊 - Sound is Hanrabbong🍊",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-14T12:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-vNjfNVbOTQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-25T15:01:55Z",
+        "channelId": "UCgVDlad2V7q9JKOcnUC8QMg",
+        "title": "STUDY WITH ME | 스터디 윗미📔| 자작나무 백색소음 들으며 같이 공부해요🍂",
+        "description": "studywithme #스터디윗미 #백색소음 #공부자극.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-vNjfNVbOTQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-vNjfNVbOTQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-vNjfNVbOTQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "반반._.",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-25T15:01:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nD2vfKJUi9A"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-25T13:00:08Z",
+        "channelId": "UCUyRzT7mkAHwzFlDZ5yPhkw",
+        "title": "ASMR | 자작나무 캔들 2시간 / Birch Candle burning sound 2hours/ 백색소음 White noise for sleeping/ 장작 타는 소리 /수면",
+        "description": "영상정보 더보기! / View More about video 구독과 좋아요는 제게 큰 힘이 됩니다! / It would really mean a lot to me if you give me ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nD2vfKJUi9A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nD2vfKJUi9A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nD2vfKJUi9A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Calm Garden",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-25T13:00:08Z"
+      }
+    }
+  ]
+}
