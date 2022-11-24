@@ -2,6 +2,19 @@
   margin-top: 65px;
   display: flex;
 
+  #search {
+    width: 96%;
+    margin: 50px auto;
+
+    h2 {
+      margin-bottom: 20px;
+      text-align: center;
+      em {
+        color: rgb(97, 92, 92);
+      }
+    }
+  }
+
   #aside {
     width: 20%;
     min-height: 100vh;
@@ -85,7 +98,7 @@
   .left {
     width: 75%;
     height: 600px;
-    background: #aaa;
+    // background: #aaa;
   }
   .right {
     width: 23%;
@@ -93,7 +106,7 @@
   }
   .play {
     width: 100%;
-    background: #aaa;
+    // background: #aaa;
     position: relative;
     padding-bottom: 27.65%;
 

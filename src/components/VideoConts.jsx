@@ -22,7 +22,7 @@ const VideoConts = () => {
   }, [id])
 
   if (!videoDetail?.snippet) return <Loader />
-  // 각 정보를 videoDetail안에다가 넣음
+  // 각 정보를 videoDetail안에다가 넣음.ㄴ
 
   const {
     snippet: { title, channelId, channelTitle },
