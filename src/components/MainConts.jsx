@@ -4,7 +4,9 @@ import { fetchAPI } from '../utils/fetchAPI'
 import { Category, Videos } from './'
 
 const MainConts = () => {
-  const [selectCategory, setSelectCategory] = useState('백색나무')
+  const [selectCategory, setSelectCategory] = useState(
+    'BZCF - 비즈니스, 투자, 스타트업과 동기부여'
+  )
   const [videos, setVideos] = useState(null)
 
   useEffect(() => {
@@ -23,7 +25,7 @@ const MainConts = () => {
       </aside>
       <section id="contents">
         <h2>
-          <em>{selectCategory}</em> 유튜버
+          <em>{selectCategory}</em> 채널
         </h2>
         <Videos videos={videos} />
       </section>
